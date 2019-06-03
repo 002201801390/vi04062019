@@ -7,6 +7,7 @@ bokeh, numpy, itertools e csv
 
 # Fonte de dados:
 http://ideb.inep.gov.br/
+http://dados.gov.br/
 
 * Curso:
 Análise e Desenvolvimento de Sistemas
