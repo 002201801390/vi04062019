@@ -2,6 +2,8 @@
 
 Visualização de Dados do INEP sobre o desempenho das escolas brasileiras perante as metas do IDEB.
 
+![alt text](https://github.com/eduhoribe/poo04062019/blob/master/result_set/result_all.png)
+
 # Bibliotecas utilizadas
 bokeh, numpy, itertools e csv
 
