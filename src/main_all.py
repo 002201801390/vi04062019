@@ -132,7 +132,7 @@ output_file("../result_set/ideb_all.html")
 min_year = 2005
 max_year = 2021
 
-ano = range(min_year, max_year, 2)
+years = range(min_year, max_year, 2)
 
 # create a new plot
 plot = figure(
@@ -145,8 +145,8 @@ plot = figure(
     y_axis_label='Nota do IDEB'
 )
 
-# @author = Eduwardo Keizo Horibe Junior
-# all data provided by http://ideb.inep.gov.br/
+# @author Eduwardo Keizo Horibe Junior
+# all data provided by http://ideb.inep.gov.br/ and http://dados.gov.br/
 if __name__ == "__main__":
     ini()
 
